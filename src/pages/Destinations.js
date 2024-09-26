@@ -2,7 +2,7 @@ import { DestinationsList } from '../helpers/DestinationsList.js'
 import DestinationsItem from '../components/DestinationsItem.js';
 import '../styles/Destinations.css'
 
-function Menu(){
+function Destinations(){
     return(
         <div className="destinations">
             <h1 className="destinationsTitle">Our Top Beaches</h1>
@@ -18,7 +18,7 @@ function Menu(){
     )
 }
 
-export default Menu;
+export default Destinations;
 
 // We import a constant from our helpers.
 // The constant is an array of objects and each one of them has an image, name and price.
