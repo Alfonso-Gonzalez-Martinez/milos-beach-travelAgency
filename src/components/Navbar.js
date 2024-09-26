@@ -32,14 +32,14 @@ function Navbar(){
             <Link id="logo-link" to="/"><img src={Logo} alt='Greek Flag'/></Link>
                 <div className="hiddenLinks">
                     <Link to="/">Home</Link>
-                    <Link to="/destinations">Menu</Link>
+                    <Link to="/destinations">Destinations</Link>
                     <Link to="/about">About</Link>
                     <Link to="/contact">Contact</Link>
                 </div>
             </div>
             <div className="rightSide">
                 <Link to="/">Home</Link>
-                <Link to="/destinations">Menu</Link>
+                <Link to="/destinations">Destinations</Link>
                 <Link to="/about">About</Link>
                 <Link to="/contact">Contact</Link>
                 <button onClick={toggleNavbar}>
