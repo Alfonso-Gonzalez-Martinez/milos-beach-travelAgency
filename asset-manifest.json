@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/milos-beach-travelAgency/static/css/main.791045db.css",
+    "main.js": "/milos-beach-travelAgency/static/js/main.346da6e3.js",
+    "static/js/453.29316dfa.chunk.js": "/milos-beach-travelAgency/static/js/453.29316dfa.chunk.js",
+    "static/media/kleftiko.jpg": "/milos-beach-travelAgency/static/media/kleftiko.c59442f1bf8aeb10d6e0.jpg",
+    "static/media/contact.jpg": "/milos-beach-travelAgency/static/media/contact.92245f26a16cc73024f3.jpg",
+    "static/media/tsigrado.jpg": "/milos-beach-travelAgency/static/media/tsigrado.b3c155912f539dda0e53.jpg",
+    "static/media/about.jpg": "/milos-beach-travelAgency/static/media/about.8663e7a160c907a64d9e.jpg",
+    "static/media/paleochori.jpg": "/milos-beach-travelAgency/static/media/paleochori.4a02ac732e980ae7d963.jpg",
+    "static/media/home.jpg": "/milos-beach-travelAgency/static/media/home.4d4e9491dede1c62e020.jpg",
+    "static/media/fyriplaka.jpg": "/milos-beach-travelAgency/static/media/fyriplaka.1970234d72b33782e2ae.jpg",
+    "static/media/sarakiniko.jpg": "/milos-beach-travelAgency/static/media/sarakiniko.9c3a57533aca0334b95e.jpg",
+    "index.html": "/milos-beach-travelAgency/index.html",
+    "main.791045db.css.map": "/milos-beach-travelAgency/static/css/main.791045db.css.map",
+    "main.346da6e3.js.map": "/milos-beach-travelAgency/static/js/main.346da6e3.js.map",
+    "453.29316dfa.chunk.js.map": "/milos-beach-travelAgency/static/js/453.29316dfa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.791045db.css",
+    "static/js/main.346da6e3.js"
+  ]
+}
