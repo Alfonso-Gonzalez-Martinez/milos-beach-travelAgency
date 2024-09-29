@@ -1,6 +1,6 @@
 {
   "homepage": "https://Pi4n0.github.io/milos-beach-travelAgency",
-  "name": "pedrotech-website-tutorial",
+  "name": "milos-beach-travel-agency",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -24,7 +24,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-     "predeploy": "npm run build",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
@@ -44,5 +44,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
   }
 }
