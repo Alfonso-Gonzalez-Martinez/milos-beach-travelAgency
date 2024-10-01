@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/milos-beach-travelAgency/static/css/main.791045db.css",
-    "main.js": "/milos-beach-travelAgency/static/js/main.346da6e3.js",
-    "static/js/453.29316dfa.chunk.js": "/milos-beach-travelAgency/static/js/453.29316dfa.chunk.js",
+    "main.js": "/milos-beach-travelAgency/static/js/main.590c9c95.js",
+    "static/js/453.b975be6d.chunk.js": "/milos-beach-travelAgency/static/js/453.b975be6d.chunk.js",
     "static/media/kleftiko.jpg": "/milos-beach-travelAgency/static/media/kleftiko.c59442f1bf8aeb10d6e0.jpg",
     "static/media/contact.jpg": "/milos-beach-travelAgency/static/media/contact.92245f26a16cc73024f3.jpg",
     "static/media/tsigrado.jpg": "/milos-beach-travelAgency/static/media/tsigrado.b3c155912f539dda0e53.jpg",
@@ -13,11 +13,11 @@
     "static/media/sarakiniko.jpg": "/milos-beach-travelAgency/static/media/sarakiniko.9c3a57533aca0334b95e.jpg",
     "index.html": "/milos-beach-travelAgency/index.html",
     "main.791045db.css.map": "/milos-beach-travelAgency/static/css/main.791045db.css.map",
-    "main.346da6e3.js.map": "/milos-beach-travelAgency/static/js/main.346da6e3.js.map",
-    "453.29316dfa.chunk.js.map": "/milos-beach-travelAgency/static/js/453.29316dfa.chunk.js.map"
+    "main.590c9c95.js.map": "/milos-beach-travelAgency/static/js/main.590c9c95.js.map",
+    "453.b975be6d.chunk.js.map": "/milos-beach-travelAgency/static/js/453.b975be6d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.791045db.css",
-    "static/js/main.346da6e3.js"
+    "static/js/main.590c9c95.js"
   ]
 }
